@@ -1,0 +1,22 @@
+#dogeTaco3 {
+    width: 80%;
+}
+
+body {
+    text-align: center;
+    background-image: url('../images/ocean-background.jpg');
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+img {
+    width: 30%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
